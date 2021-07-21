@@ -10,4 +10,4 @@ This repository serves as a single place to keep track of the storyline outline,
 
 - `archive` – An archive of each post in the saga. *For posterity!*
 
-- `outline` – A succint outline of each page in the story. *Use this to catch up to speed with new developments in the story.*
+- `outline` – A succint outline of each page in the story, also in AsciiDoc format. *Use this to catch up to speed with new developments in the story.*
